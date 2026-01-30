@@ -1,20 +1,73 @@
-## 👋 Xin chào! Mình là @devhuutai
+<div align="center">
 
-### 🚀 Một chút về mình:
-- 🔭 Hiện tại mình đang phát triển các dự án **Fullstack Web App** với **Next.js**, **Node.js (Express)** và **MySQL**
-- 🌱 Đang tìm hiểu sâu hơn về **Kafka**, **Redis**, **Socket.io** và **CI/CD**
-- 💡 Đam mê tối ưu hệ thống, kiến trúc microservice và tự động hóa triển khai (DevOps)
-- 🎯 Mục tiêu trở thành **Fullstack Developer** chuyên nghiệp với kiến thức sâu cả Backend và Frontend
+<!-- LOGO / TITLE -->
+<h1>DEVHUUTAI</h1>
+<p><b>Fullstack Web Developer · System & Performance Focus</b></p>
 
-### 🤝 Cộng tác cùng mình nếu bạn:
-- Cũng đang xây dựng hệ thống **stream video, crawl dữ liệu, hoặc web động có realtime**
-- Cần hỗ trợ về **Next.js App Router**, **API bảo mật**, **hiệu suất hệ thống lớn**
-- Muốn build các **startup sản phẩm MVP** nhanh chóng với chi phí tối ưu
+<p>
+  <a href="https://discord.gg/xxxx">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://twitter.com/xxxx">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://youtube.com/xxxx">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+</p>
 
-### 📫 Liên hệ mình tại:
-- Email: huutai.dev@gmail.com
-- SDT : 0968.6789.xx
+</div>
+
 ---
 
-> 😄 Pronouns: he/him  
-> ⚡ Fun fact: Minh code ngu vai cuk 💻🔥
+## 👋 About Me
+
+Mình là **Hữu Tài**, một **Fullstack Web Developer** tập trung xây dựng các hệ thống:
+- 🔐 Bảo mật
+- ⚡ Hiệu năng cao
+- 🔁 Realtime & scalable
+
+Hiện tại mình làm việc chủ yếu với **Next.js (App Router)**, **Node.js (Express)** và **MySQL**, đồng thời nghiên cứu sâu hơn về kiến trúc hệ thống và DevOps.
+
+---
+
+## 🚀 What I'm working with
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
+
+<br/>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
+
+</div>
+
+---
+
+## 🤝 Open for collaboration
+
+- 🚀 Streaming video systems
+- 🔁 Realtime web apps
+- 🔐 Secure API & anti-abuse solutions
+- 🧪 MVP / Startup backend architecture
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **huutai.dev@gmail.com**
+- 📱 Phone: **0968 6789 xx**
+
+---
+
+<div align="center">
+
+> ⚡ Fun fact: Không cần code nhanh — chỉ cần code **đúng và tối ưu**.
+
+</div>
